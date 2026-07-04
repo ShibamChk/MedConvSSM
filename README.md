@@ -156,6 +156,4 @@ If you use this code or build upon this work, please cite the manuscript after p
 }
 ```
 
-## License
 
-Please add an appropriate license before public release. If there are no institutional restrictions, an open-source license such as MIT or Apache-2.0 can be used for the code. Dataset licenses remain governed by the original dataset providers.
